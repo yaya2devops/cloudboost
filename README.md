@@ -1,9 +1,7 @@
-# [whatthefuck.is](https://whatthefuck.is/)
+# [CloudBoost - Prep](https:/cloud.itzyahya.tech/)
 
-An opinionated glossary of computer science terms for front-end developers. Written by Dan Abramov.
-
+ A project to help people crash that certification, built on NextJs, containing notes of mine about my cloud journey from blogs, documentations and personal experience.
 ## Contributing
 
-Typo fixes and website improvements are welcome as pull requests.
+I'm pushing this project as an open source. Any improvement, insight or even another ideas is welcome.
 
-We **do not** accept definitions, but you’re welcome to vote on (and request) definitions in the [issue tracker](https://github.com/gaearon/whatthefuck.is/issues). You can sort popular issues by [sorting by reactions](https://github.com/gaearon/whatthefuck.is/issues?page=1&q=is%3Aissue+is%3Aopen+sort%3Areactions-%2B1-desc).
