@@ -6,7 +6,7 @@ const Footer = ({ slug }) => {
     <>
       <footer className={styles.footer}>
         <div>
-          <Link href="https://github.com/Y4HYA4" external gray>
+          <Link href="https://github.com/Y4HYA4/CloudBoost" external gray>
           🙋🏽‍♂️CONTRIBUTE
           </Link>
           <Link href="https://overreacted.io" external gray>
