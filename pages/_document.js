@@ -10,6 +10,8 @@ class MyDocument extends Document {
     return (
       <Html lang="en">
       <Head>
+      <meta property="og:title" content="CloudBoost" />
+      <meta property="og:image" content="/images/AZHERO.png" />
       <link rel="icon" href="/images/CloudBoost.png" />
     
       </Head>
