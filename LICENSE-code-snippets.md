@@ -5,7 +5,7 @@ Code snippets may be used under the terms of the MIT License:
 
 MIT License
 
-Copyright (c) 2020 Dan Abramov and the contributors.
+Copyright (c) 2022 Yahya Abulhaj.
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
