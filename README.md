@@ -1,7 +1,20 @@
 # [CloudBoost - Compressed Material](https://cloud.itzyahya.tech)
 
  A project to help people crash that certification, built on NextJs, containing notes of mine about my cloud journey from blogs, documentations & personal experience.
-## Contributing
+ 
+ *** The platform has the examinations below with the intent of constantly improving and and appending more beneficial content for the community.
+ - AZ-900
+ - DP-900
+ - AI-900
+ - SC-900
+ - PL-900
+ - AZ-104
+ - AZ-204
+ - AZ-500
+ - AZ-400
 
-I'm pushing this project as an open source. Any improvement, insight or even another ideas is welcome.
+
+## Contributing
+**The project is in Progress...**
+**Pushed as an open source project welcoming your pull requests to make it a better learning experience .**
 
