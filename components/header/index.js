@@ -35,6 +35,7 @@ const Header = ({ slug, title }) => {
             )}
           </span>
         </span>
+       
         <button
           className={styles.command}
           onClick={toggleTheme}
