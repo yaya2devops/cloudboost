@@ -5,7 +5,7 @@
  **The platform has the examinations below with the intent of constantly improving and appending more beneficial content for the community.**
  - [x] AZ-900: Microsoft Azure Fundamentals 
  - [x] DP-900: Microsoft Azure Data Fundamentals 
- - [ ] AI-900: Microsoft Azure AI Fundamentals 
+ - [x] AI-900: Microsoft Azure AI Fundamentals 
  - [ ] SC-900: Microsoft Security, Compliance, and Identity Fundamentals 
  - [ ] PL-900: Microsoft Power Platform Fundamentals 
  - [ ] AZ-104: Microsoft Azure Administrator 
