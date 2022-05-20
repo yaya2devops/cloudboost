@@ -18,7 +18,7 @@ const Page = ({
       <SEO
         title={`${(title
           ? `CloudBoost: ${title}?`
-          : 'Cloud Boost ') + ' '}`}
+          : 'CloudBoost ') + ' '}`}
         description={description}
         image={image}
       />
