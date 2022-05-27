@@ -19,5 +19,5 @@
 ## Contributing
 **The project is in Progress...**
 
-**Pushed as an open source project welcoming your pull requests to make it a better learning experience .**
+**Pushed as an open source project welcoming your pull requests to make it a better learning experience.**
 
