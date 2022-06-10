@@ -10,7 +10,7 @@
  - [ ] PL-900: Microsoft Power Platform Fundamentals 
  - [ ] AZ-104: Microsoft Azure Administrator 
  - [ ] AZ-204: Developing Solutions for Microsoft Azure 
- - [ ] AZ-500: Microsoft Azure Security Technologies 
+ - [ ] AZ-500: Microsoft Azure Security Technologies  
  - [ ] AZ-400: Designing and Implementing Microsoft DevOps Solutions 
  - [ ] AZ-305: Designing Microsoft Azure Infrastructure Solutions 
  - [ ] Terraform: HashiCorp Infrastructure Automation Certification 
@@ -19,5 +19,5 @@
 ## Contributing
 **The project is in Progress...**
 
-**Pushed as an open source project welcoming your pull requests to make it a better learning experience .**
+**Pushed as an open source project welcoming your pull requests to make it a better learning experience.**
 
