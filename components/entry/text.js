@@ -12,12 +12,12 @@ const categories = {
    'DP-900' : "/images/DP900.png",
    'SC-900' : "/images/SC900.png",
    'PL-900' : "/images/PL900.png",
-   'AZ-104' : "/images/AZ104.png",
+  /* 'AZ-104' : "/images/AZ104.png",
    'AZ-204' : "/images/AZ204.png",
    'AZ-500' : "/images/AZ500.png",
    'AZ-400' : "/images/AZ400.png",
    'AZ-305' : "/images/AZ305.png",
-   'Terraform' : "/images/tf.png",
+   'Terraform' : "/images/tf.png", */
    
   
 }

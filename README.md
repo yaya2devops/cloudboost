@@ -7,17 +7,42 @@
  - [x] DP-900: Microsoft Azure Data Fundamentals 
  - [x] AI-900: Microsoft Azure AI Fundamentals 
  - [ ] SC-900: Microsoft Security, Compliance, and Identity Fundamentals 
- - [ ] PL-900: Microsoft Power Platform Fundamentals 
+ - [x] PL-900: Microsoft Power Platform Fundamentals 
+
+
+## Contributing
+Pushed as an open source project welcoming your pull requests to make it a better learning experience.
+
+We are still planning on working on these exams:
  - [ ] AZ-104: Microsoft Azure Administrator 
  - [ ] AZ-204: Developing Solutions for Microsoft Azure 
  - [ ] AZ-500: Microsoft Azure Security Technologies  
+ - [ ] AZ-700: Designing and Implementing Microsoft Networking Solutions
  - [ ] AZ-400: Designing and Implementing Microsoft DevOps Solutions 
  - [ ] AZ-305: Designing Microsoft Azure Infrastructure Solutions 
  - [ ] Terraform: HashiCorp Infrastructure Automation Certification 
 
 
-## Contributing
-**The project is in Progress...**
+## 💡 How to contribute?
+- You can add a new certificate to the list by following this hirarchy.
 
-**Pushed as an open source project welcoming your pull requests to make it a better learning experience.**
+ You want to either add a new certificate or improve an existing one.
+
+``` 
+.CloudBoost
+├── componens
+├── lib
+├── pages
+├── posts
+│   ├── a-az900.md // You can contribute here
+│   ├── b-ai900.md // Also Here
+│   ├── dp900.md // Also Here
+│   ├── e-sc900.md // Also Here
+│   ├── f-pl900.md // Also Here
+│   ├── g-YourContribution.md ?
+```
+> Whatever insights you gained, I passionately welcome them.
+
+
+
 
