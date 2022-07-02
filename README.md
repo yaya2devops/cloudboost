@@ -26,7 +26,7 @@ We are still planning on working on these exams:
 ## 💡 How to contribute?
 - You can add a new certificate to the list by following this hirarchy.
 
- You want to either add a new certificate or improve an existing one.
+ 👍 You want to either add a new certificate or improve an existing one. 
 
 ``` 
 .CloudBoost
@@ -40,7 +40,23 @@ We are still planning on working on these exams:
 │   ├── e-sc900.md // Also Here
 │   ├── f-pl900.md // Also Here
 │   ├── g-YourContribution.md ?
+├── public
+├── styles
 ```
+
+To display the certification badge you decided to work on, on the UI, add the modifications to "text.js" as shown below.
+``` 
+.CloudBoost
+├── components
+│   ├── entry
+│      ├── text.js
+├── lib
+├── pages
+├── posts
+├── public
+├── styles
+```
+
 > Whatever insights you gained, I passionately welcome them.
 
 
