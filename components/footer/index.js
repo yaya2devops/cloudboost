@@ -9,14 +9,14 @@ const Footer = ({ slug }) => {
           <Link href="https://github.com/Y4HYA4/CloudBoost" external gray>
           🙋🏽‍♂️CONTRIBUTE
           </Link>
-          <Link href="https://💡ABOUT" external gray>
+          <Link src="💡ABOUT" external gray> 
           
           </Link>
         </div>
         <Link href="https://www.itzyahya.tech" external gray>
           
         </Link>
-        <Link href="https://www.itzyahya.tech" >
+        <Link href="https://home.itzyahya.tech" >
         🌐
         </Link>
        

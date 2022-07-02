@@ -31,7 +31,7 @@ const Header = ({ slug, title }) => {
                 
               </b>
             ) : (
-              <>&nbsp;&nbsp;Boost&nbsp;Your&nbsp;Cloud&nbsp;Preparation </>
+              <>&nbsp;&nbsp;Master&nbsp;The&nbsp;Fundamentals&nbsp; </>
             )}
           </span>
         </span>
