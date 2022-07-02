@@ -30,7 +30,7 @@ We are still planning on working on these exams:
 
 ``` 
 .CloudBoost
-├── componens
+├── components
 ├── lib
 ├── pages
 ├── posts
