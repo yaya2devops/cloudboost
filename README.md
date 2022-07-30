@@ -24,10 +24,9 @@ We are still planning on working on these exams:
  - [ ] Terraform: HashiCorp Infrastructure Automation Certification 
 
 
-## 💡 How to contribute?
+##  :bulb: How to contribute?
 👍 You want to either add a new certificate or improve an existing one. 
 - You can add a new certificate to the list by following this hirarchy 👇
-
 
  
 ``` 
@@ -59,7 +58,7 @@ To display the certification badge you decided to work on, on the UI, add the mo
 ├── styles
 ```
 
-> Whatever insights you gained, I passionately welcome them.
+> Whatever insights you gained, I passionately welcome them. :tada:
 
 
 
