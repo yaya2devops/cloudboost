@@ -4,12 +4,14 @@
  A project to help people crash that certification, built on NextJs, containing notes of mine about my cloud journey from blogs, documentations & personnal experience.
  
  **The platform has the examinations below with the intent of constantly improving and appending more beneficial content for the community.**
- - [x] AZ-900: Microsoft Azure Fundamentals 
- - [x] DP-900: Microsoft Azure Data Fundamentals 
- - [x] AI-900: Microsoft Azure AI Fundamentals 
- - [ ] SC-900: Microsoft Security, Compliance, and Identity Fundamentals 
- - [x] PL-900: Microsoft Power Platform Fundamentals 
 
+| Current List  | Exam Code  | Status |
+|:-------- |:--------:| --------:|
+| Microsoft Azure Fundamentals      |  AZ-900   |     [✔️] |
+| Microsoft Azure Data Fundamentals      |   DP-900   |     [✔️] |
+| Microsoft Azure AI Fundamentals      |  AI-900   |     [✔️] |
+| Microsoft Security, Compliance, and Identity Fundamentals       |   SC-900   |     [⌛️] |
+| Microsoft Power Platform Fundamentals      |   PL-900   |     [⌛️] |
 
 ## Contributing
 Pushed as an open source project welcoming your pull requests to make it a better learning experience.
