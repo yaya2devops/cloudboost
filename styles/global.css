@@ -28,9 +28,10 @@
 
 :root {
   /* Dark Mode Colors */
-  --bg: #131415;
-  --fg: #fafbfc;
-  --gray: #888;
+  --bg: #000000;
+  --mainbackground:#131415;
+  --fg: #2b95ff;
+  --gray: rgb(255, 255, 255);
   --light-gray: #444;
   --lighter-gray: #222;
   --lightest-gray: #1a1a1a;
