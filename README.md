@@ -1,14 +1,17 @@
 # [CloudBoost - Compressed Material](https://cloud.itzyahya.tech)
+> an alternative [reading interface](https://y4hya4.github.io/CloudBoost/) for the content below?
 
- A project to help people crash that certification, built on NextJs, containing notes of mine about my cloud journey from blogs, documentations & personal experience.
+ A project to help people crash that certification, built on NextJs, containing notes of mine about my cloud journey from blogs, documentations & personnal experience.
  
  **The platform has the examinations below with the intent of constantly improving and appending more beneficial content for the community.**
- - [x] AZ-900: Microsoft Azure Fundamentals 
- - [x] DP-900: Microsoft Azure Data Fundamentals 
- - [x] AI-900: Microsoft Azure AI Fundamentals 
- - [ ] SC-900: Microsoft Security, Compliance, and Identity Fundamentals 
- - [x] PL-900: Microsoft Power Platform Fundamentals 
 
+| Current List  | Exam Code  | Status |
+|:-------- |:--------:| --------:|
+| Microsoft Azure Fundamentals      |  AZ-900   |     [✔️] |
+| Microsoft Azure Data Fundamentals      |   DP-900   |     [✔️] |
+| Microsoft Azure AI Fundamentals      |  AI-900   |     [✔️] |
+| Microsoft Security, Compliance, and Identity Fundamentals       |   SC-900   |     [⌛️] |
+| Microsoft Power Platform Fundamentals      |   PL-900   |     [⌛️] |
 
 ## Contributing
 Pushed as an open source project welcoming your pull requests to make it a better learning experience.
@@ -23,14 +26,14 @@ We are still planning on working on these exams:
  - [ ] Terraform: HashiCorp Infrastructure Automation Certification 
 
 
-## 💡 How to contribute?
-- You can add a new certificate to the list by following this hirarchy.
+##  :bulb: How to contribute?
+👍 You want to either add a new certificate or improve an existing one. 
+- You can add a new certificate to the list by following this hirarchy 👇
 
- You want to either add a new certificate or improve an existing one.
-
+ 
 ``` 
 .CloudBoost
-├── componens
+├── components
 ├── lib
 ├── pages
 ├── posts
@@ -40,8 +43,24 @@ We are still planning on working on these exams:
 │   ├── e-sc900.md // Also Here
 │   ├── f-pl900.md // Also Here
 │   ├── g-YourContribution.md ?
+├── public
+├── styles
 ```
-> Whatever insights you gained, I passionately welcome them.
+
+To display the certification badge you decided to work on, on the UI, add the modifications to "text.js" as shown below.
+``` 
+.CloudBoost
+├── components
+│   ├── entry
+│      ├── text.js
+├── lib
+├── pages
+├── posts
+├── public
+├── styles
+```
+
+> Whatever insights you gained, I passionately welcome them. :tada:
 
 
 
