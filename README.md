@@ -27,7 +27,7 @@ We are still planning on working on these exams:
 
 
 ##  :bulb: How to contribute?
-👍 You want to either add a new certificate or improve an existing one. 
+👍 You want to either add a new certificate or improve an existing one.  
 - You can add a new certificate to the list by following this hirarchy 👇
 
  
