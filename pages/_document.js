@@ -12,7 +12,7 @@ class MyDocument extends Document {
       <Head>
       <meta property="og:title" content="CloudBoost" />
       <meta property="og:image" content="/images/AZHERO.png" />
-      <link rel="icon" href="/images/CloudBoost.png" />
+      <link rel="icon" href="/images/Boost.png" />
     
       </Head>
         <body>
