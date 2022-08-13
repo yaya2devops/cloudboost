@@ -13,10 +13,10 @@
 | Microsoft Security, Compliance, and Identity Fundamentals       |   SC-900   |     [⌛️] |
 | Microsoft Power Platform Fundamentals      |   PL-900   |     [⌛️] |
 
-## Contributing
-Pushed as an open source project welcoming your pull requests to make it a better learning experience.
+## Proceed contributing to this project and start earning good value
+As you can see, you have all of the necessary code. What you can do now is fork it on your local machine, add your value, and push it back to me. Send me a pull request, and I'll definitely put your value into production.
 
-We are still planning on working on these exams:
+**We intend to continue working on these exams as well as improving what is already in place.**
  - [ ] AZ-104: Microsoft Azure Administrator 
  - [ ] AZ-204: Developing Solutions for Microsoft Azure 
  - [ ] AZ-500: Microsoft Azure Security Technologies  
@@ -25,6 +25,7 @@ We are still planning on working on these exams:
  - [ ] AZ-305: Designing Microsoft Azure Infrastructure Solutions 
  - [ ] Terraform: HashiCorp Infrastructure Automation Certification 
 
+**So you must have something to say. Simply dive in and deliver great knowledge to the world.**
 
 ##  :bulb: How to contribute?
 👍 You want to either add a new certificate or improve an existing one.  
@@ -59,7 +60,7 @@ To display the certification badge you decided to work on, on the UI, add the mo
 ├── public
 ├── styles
 ```
-
+Just do it✔️; it could be the thing that opens doors you never imagined.
 > Whatever insights you gained, I passionately welcome them. :tada:
 
 
