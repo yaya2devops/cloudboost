@@ -16,8 +16,8 @@ const Footer = ({ slug }) => {
         <Link href="https://www.itzyahya.tech" external gray>
           
         </Link>
-        <Link href="https://home.itzyahya.tech" >
-        🌐
+        <Link href="https://devops.yahya-abulhaj.dev/" >
+        💡
         </Link>
        
       </footer>
