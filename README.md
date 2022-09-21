@@ -9,7 +9,7 @@
  - [AI-900](/posts/b-ai900.md)
  - [DP-900](/posts/dp900.md)
  - [SC-900](/posts/e-sc900.md)
- 
+  
 ## Progress
 
   **The platform has the examinations below with the intent of constantly improving and appending more beneficial content for the community.**
