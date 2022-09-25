@@ -3,12 +3,6 @@
 
  A project to help people crash that certification, built on NextJs, containing notes of mine about my cloud journey from blogs, documentations & personnal experience.
  
- ## GitHub Experience
- 
- - [AZ-900](/posts/a-az900.md)
- - [AI-900](/posts/b-ai900.md)
- - [DP-900](/posts/dp900.md)
- - [SC-900](/posts/e-sc900.md)
   
 ## Progress
 
@@ -16,11 +10,11 @@
   
 | Current List  | Exam Code  | Status |
 |:-------- |:--------:| --------:|
-| Microsoft Azure Fundamentals      |  AZ-900   |     [✔️] |
-| Microsoft Azure Data Fundamentals      |   DP-900   |     [✔️] |
-| Microsoft Azure AI Fundamentals      |  AI-900   |     [✔️] |
-| Microsoft Security, Compliance, and Identity Fundamentals       |   SC-900   |     [⌛️] |
-| Microsoft Power Platform Fundamentals      |   PL-900   |     [⌛️] |
+| Microsoft Azure Fundamentals      |  [AZ-900](/posts/a-az900.md)   |     [✔️] |
+| Microsoft Azure Data Fundamentals      |   [DP-900](/posts/dp900.md)   |     [✔️] |
+| Microsoft Azure AI Fundamentals      |  [AI-900](/posts/b-ai900.md)   |     [✔️] |
+| Microsoft Security, Compliance, and Identity Fundamentals       |   [SC-900](/posts/e-sc900.md)   |     [⌛️] |
+| Microsoft Power Platform Fundamentals      |   [PL-900](/posts/f-pl900.md)   |     [⌛️] |
 
 ## Proceed contributing to this project and start earning good value
 As you can see, you have all of the necessary code. What you can do now is fork it on your local machine, add your value, and push it back to me. Send me a pull request, and I'll definitely put your value into production.
