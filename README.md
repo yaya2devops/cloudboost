@@ -1,7 +1,10 @@
 # [CloudBoost - Compressed Material](https://cloud.itzyahya.tech)
+
+<img class="img" src="Banner.png" alt="Hey">
+
 > an alternative [reading interface](https://y4hya4.github.io/CloudBoost/) for the content below?
 
- A project to help people crash that certification, built on NextJs, containing notes of mine about my cloud journey from blogs, documentations & personnal experience.
+A project to help people crash that certification, built on NextJs, containing notes of mine about my cloud journey from blogs, documentations & personnal experience.
  
   
 ## Progress
