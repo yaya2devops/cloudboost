@@ -1,0 +1,210 @@
+
+title: 
+slug: D-SC-900
+date: Aug 6, 2022
+category: 
+
+
+<img src="/images/SC900STUFF/SC900.png"
+     style="float: left; margin-right: 10px;" /> 
+      <br/><br/>
+
+
+
+
+## 0.1. Motivation
+      
+Security fosters situational awareness and maintains equilibrium. Without security, people become complacent and overlook unusual behavior by civilians, employees, and others around them. Security guides a positive and proactive culture because awareness is an ongoing activity and people want to do the right thing.
+
+Choosing this exam is critical regardless of your primary interest in the cloud. You will require security despite of where you are and having that knowledge will help you advance. An introduction to security that will assist you in grasping some interesting cybersecurity concepts ranging from the fundamentals to some principles used when moving to the cloud such as the Zero Trust Model.
+
+---  
+
+## Table Of Contents
+
+Loading...
+
+---  
+
+# Foundation Concepts
+
+## Security
+
+**What is Security?** The goal of computer security is to protect a single machine and the data stored on it. Security is defined as being free from danger, attacks, or feeling safe.
+
+
+It is essential to comprehend these terms because the following information will be derived from them.
+
+### Encryption
+Encryption is the process of converting information into a secret code that conceals the true meaning of the information. Cryptography is the science of encrypting and decrypting information. Unencrypted data is referred to as plaintext in computing, while encrypted data is referred to as ciphertext.
+
+### Hashing
+Hashing is the process of generating a value from a text or a list of numbers using a hash function, which is a mathematical function. A Hash Function is a function that transforms a numeric or alphanumeric key into a small practical integer value. In the hash table, the mapped integer value serves as an index.
+
+### Shared Responsibility Model
+The shared responsibility model, as mentioned in previous exams, identifies which security tasks are handled by the cloud provider and which security tasks are handled by you, the customer. The duties differ depending on where the workload is hosted:
+
+- Software as a Service (SaaS) 
+- Platform as a Service (PaaS) 
+- Infrastructure as a Service (IaaS) 
+- Datacenter on-premises
+
+#### Datacenters located on-site
+You are responsible for everything in an on-premises datacenter, from physical security to encrypting sensitive data.
+
+#### Infrastructure as a Service 
+IaaS is the cloud service that requires the most management from the cloud customer. You use the cloud provider's computing infrastructure when you use IaaS. The cloud customer is not responsible for the physical components of the datacenter, such as computers, networks, or physical security. The cloud customer is still responsible for software components such as operating systems, network controls, applications, and data security.
+
+#### Platform as a Service
+PaaS is a platform for developing, testing, and deploying software applications. The goal of PaaS is to allow you to quickly create an application without having to manage the underlying infrastructure. The cloud provider manages the hardware and operating systems in PaaS, while the customer is responsible for the applications and data.
+
+#### Software as a Service
+The cloud provider hosts and manages SaaS for the customer. It is typically licensed on a monthly or annual basis. SaaS software includes Microsoft 365, Skype, and Dynamics CRM Online. SaaS necessitates the least amount of management on the part of the cloud customer. Except for data, devices, accounts, and identities, the cloud provider is in charge of everything.
+
+### Defense In Depth
+Defense in depth is a security strategy that employs multiple security measures to safeguard an organization's assets. The theory is that if one line of defense is breached, additional layers of defense exist as a backup to ensure that threats are stopped along the way. Defense in depth addresses the security flaws that exist not only in hardware and software, but also in people, as negligence or human error are frequently the cause of a security breach.
+
+Layers of security examples include:
+- Physical security measures include restricting access to a datacenter to authorized personnel only.
+- Control access to infrastructure and change control using identity and access security controls such as multifactor authentication or conditional access.
+- Your corporate network's perimeter security includes distributed denial of service (DDoS) protection to filter large-scale attacks before they cause a denial of service for users.
+- To limit communication between resources, network security measures such as network segmentation and network access controls are used.
+- Compute layer security includes closing specific ports to secure access to virtual machines on-premises or in the cloud.
+- Application layer security ensures that applications are secure and free of security flaws.
+- Controls to manage access to business and customer data, as well as encryption to protect data, are all part of data layer security.
+
+#### What about CIA 
+All of the various mechanisms (technologies, processes, and training) are components of a cybersecurity strategy, the goals of which include ensuring confidentiality, integrity, and availability.
+
+- Confidentiality: One of the fundamental concepts of cybersecurity is confidentiality. Simply put, confidentiality protects confidential information from unauthorized disclosure. Confidentiality is a shared responsibility for technologists and everyone else in the organization. As well as preserving authorized restrictions on access and disclosure, including means for protecting personal privacy and proprietary information.
+- Integrity: The integrity of your system means that data or information in your system is not modified or deleted by unauthorized parties. This is a critical component of data hygiene, reliability, and accuracy. Its main objective is to make sure that a data will stay undamaged its all life cycle and will be the same where ever it can be not to cause any disturbance to information.
+- Availability: refers to making data available to those who require it at the time they require it. It is critical for the organization to keep customer data secure, but it must also be accessible to employees who deal with customers. While it may be more secure to store data in encrypted form, employees must have access to unencrypted data.
+
+
+### Zero Trust model
+#### Overview
+Zero Trust is a cybersecurity strategy that secures an organization by removing implicit trust and continuously validating every stage of a digital interaction. Zero Trust assumes that everything is on an open and untrusted network, including resources behind corporate firewalls. The Zero Trust model follows the tenet of "trust no one, verify everything."
+
+#### Guiding Principles
+- Verify explicitly: Always authenticate and authorize based on the data points available, such as user identity, location, device, service or workload, data classification, and anomalies.
+- Least privileged access: To protect both data and productivity, limit user access with just-in-time and just-enough access (JIT/JEA), risk-based adaptive policies, and data protection.
+- Assume breach: Access can be divided into network, user, device, and application segments. Encrypt data, and use analytics to gain visibility, detect threats, and improve security.
+
+A security strategy that applies the three Zero Trust model principles across the six foundational pillars assists businesses in delivering and enforcing security across their organization.
+
+#### Foundational pillars
+1- Users, services, and devices can all have identities. When an identity attempts to access a resource, it must be verified using strong authentication and the principles of least privilege access.
+
+2- As data flows from devices to on-premises workloads and the cloud, devices create a large attack surface. Devices that monitor health and compliance are an important aspect of security.
+
+3- Data is consumed through applications. This includes identifying all applications in use, which is sometimes referred to as Shadow IT because not all applications are managed centrally. This pillar also includes permissions and access management.
+
+4- Based on its attributes, data should be classified, labeled, and encrypted. Finally, security efforts are about protecting data and ensuring that it remains secure when it leaves devices, applications, infrastructure, and networks under the organization's control.
+
+5- Infrastructure, whether on-premises or in the cloud, is a threat vector. You assess for version, configuration, and JIT access to improve security, and you use telemetry to detect attacks and anomalies. This enables you to automatically block or flag dangerous behavior and take protective measures.
+
+6- Networks should be segmented, including in-network micro segmentation at a deeper level. Real-time threat protection, end-to-end encryption, monitoring, and analytics should also be used.
+
+
+
+
+## Compliance
+**What is Compliance? According to the Cambridge Dictionary, compliance is "the act of obeying an order, rule, or request." As per Wikipedia, "compliance" means "conforming to a rule, such as a specification, policy, standard, or law." 
+
+Compliance is the state of being in accordance with established guidelines or specifications, or the process of becoming so.
+Organizations can be held accountable for meeting dozens of regulations, ranging from personal and financial information to data protection and privacy, in order to be compliant. The following are some key concepts and terms related to data compliance.
+
+#### Data residency
+Data residency laws require companies doing business in a country to keep data about its citizens on servers in that country. Companies with customers or employees in multiple countries may find regulatory requirements onerous and difficult to meet.
+
+#### Data sovereignty  
+Data sovereignty entails maintaining control over encryption and data access. This prevents sensitive data from falling into the hands of a foreign entity without express permission, resulting in non-compliance with country-specific data sovereignty laws.
+
+#### Data privacy
+A privacy-compliant organization has strong administrative, technical, and physical security safeguards in place to ensure data confidentiality, integrity, and availability. This includes the ability to detect and prevent unauthorized or inappropriate data access.
+
+
+## Identity
+
+**What's Identity?**  who you are, the way you think about yourself, the way you are viewed by the world and the characteristics that define you. The same logic applies to determining your digital identity.
+
+### Authentication VS Authorization
+Authentication and authorization are two critical information security processes used by administrators to safeguard systems and data. Authentication verifies a user's or service's identity, while authorization (AuthZ) determines their access rights.
+
+###  Identity as the primary security perimeter
+
+### Four pillars of an identity infrastructure
+#### Administration
+Administration is concerned with the creation and management/administration of identities for users, devices, and services. As an administrator, you control how and under what conditions identity characteristics can change (be created, updated, deleted).
+
+#### Authentication
+The authentication pillar describes how much an IT system needs to know about an identity in order to have sufficient proof that they are who they claim to be. It entails challenging a party for legitimate credentials.
+Authorization.
+
+#### The authorization 
+This pillar is concerned with processing incoming identity data in order to determine the level of access that an authenticated person or service has within the application or service that it wishes to access.
+
+####  Auditing
+The auditing pillar is concerned with keeping track of who does what, when, where, and how. Auditing entails detailed reporting, alerts, and identity governance.
+
+### the identity provider capabilties
+#### The usage of Central Identity
+Organizations can use a central identity provider to establish authentication and authorization policies, monitor user behavior, detect suspicious activity, and reduce malicious attacks.
+
+#### Modern authentication
+This is a catch-all term for methods of authentication and authorization between a client, such as your laptop or phone, and a server, such as a website or application. The identity provider's role is central to modern authentication. An identity provider creates, manages, and maintains identity data while also providing authentication, authorization, and auditing services.
+
+#### Single sign-on
+Support for single sign-on is another critical capability of an identity provider and "modern authentication" (SSO). SSO allows users to log in once and use that credential to access multiple applications or resources. Federation is the process of establishing SSO between multiple identity providers.
+
+### Concept of directory services 
+####  Active Directory
+Active Directory (AD) is a database and set of services developed by Microsoft that connects users to the network resources they require to complete their tasks. The database (or directory) contains critical information about your environment, such as the number of users and computers present, as well as who is authorized to do what.
+
+#### Azure Active Directory
+The increased use of cloud services, SaaS applications, and personal devices at work has necessitated modern authentication and the evolution of Active Directory-based identity solutions.
+
+The next generation of identity and access management solutions is Azure Active Directory. It offers organizations an Identity as a Service (IDaaS) solution for all of their cloud and on-premises apps. We'll concentrate on Azure AD, Microsoft's cloud-based identity provider, in this course.
+
+### Concept of Federation
+in general terms A federation is the act of joining states or other groups with the agreement that they will be governed by a single central authority. The United States is an example of a federation.
+The term "federation" refers to "an association formed by the merger of several groups or parties." Federation is defined in the Liberty Alliance Project specifications to include both identity federation and provider federation.
+
+In practice, federation occurs when a user logs in to a third-party site using their social media account, such as Twitter. Twitter is an identity provider in this scenario, and the third-party site may use a different identity provider, such as Azure AD. Azure AD and Twitter have a trust relationship.
+
+---
+
+# Azure Active Directory Solutions
+## Services and Identity
+## Authentication 
+## Access Management
+## Identity Protection and Governance 
+
+---
+
+# Microsoft Security Solutions
+## Basic
+## Security Management
+## Microsoft Sentinel
+## Thread Protection with Microsoft 365 Defender
+
+---
+
+# Microsoft Compliance Solutions
+
+## Service Trust Portal
+
+## Microsoft Purview
+### Compliance management
+### Information Protection
+### Insider Risk
+### eDiscovery and Audit 
+
+---
+
+# Governance 
+
+
+
+
+> ❝Cloud computing is a challenge to security, but one that can be overcome.❞ -"Whitfield Diffie"
