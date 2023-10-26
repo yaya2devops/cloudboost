@@ -2,8 +2,9 @@
   "name": "blog",
   "version": "1.0.0",
   "scripts": {
-    "lint": "prettier --write '**/*.js'",
+    "start": "cross-env NODE_OPTIONS='--openssl-legacy-provider --inspect' next dev",
     "dev": "next-remote-watch posts",
+    "lint": "prettier --write '**/*.js'",
     "build": "yarn rss && next build",
     "rss": "node lib/rss"
   },
@@ -11,12 +12,14 @@
   "license": "MIT",
   "dependencies": {
     "classnames": "^2.2.6",
+    "cross-env": "^7.0.3",
     "intersection-observer": "^0.7.0",
     "lodash.debounce": "^4.0.8",
     "next": "^9.4.2",
     "nprogress": "^0.2.0",
-    "react": "^16.13.1",
+    "react": "^16.14.0",
     "react-dom": "^16.13.1",
+    "react-scripts": "^5.0.1",
     "swr": "^0.2.0",
     "update": "^0.7.4"
   },
