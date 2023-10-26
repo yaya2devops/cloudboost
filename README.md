@@ -1,8 +1,8 @@
-# [CloudBoost - Compressed Material](https://cloud.itzyahya.tech)
+# [CloudBoost - Compressed Material](https://az.ya-ya.tech/)
 
 <img class="img" src="Banner.png" alt="Hey">
 
-> an alternative [reading interface](https://yaya2devops.github.io/CloudBoost/) for the content below?
+> an alternative [reading interface](https://yaya2devops.github.io/cloudboost/) for the content below?
 
 A project to help people crash that certification, built on NextJs, containing notes of mine about my cloud journey from blogs, documentations & personnal experience.
 
@@ -20,7 +20,13 @@ A project to help people crash that certification, built on NextJs, containing n
 | Microsoft Azure AI Fundamentals      |  [AI-900](/posts/b-ai900.md)   |     [✔️] |
 
 
-## Proceed contributing to this project and start earning good value
+<details>
+
+<summary>
+<b>Proceed contributing to this project and start earning good value</b>
+  
+</summary>
+  
 As you can see, you have all of the necessary code. What you can do now is fork it on your local machine, add your value, and push it back to me. Send me a pull request, and I'll definitely put your value into production.
 
 **We intend to continue working on these exams as well as improving what is already in place.**
@@ -34,10 +40,11 @@ As you can see, you have all of the necessary code. What you can do now is fork 
 
 **So you must have something to say. Simply dive in and deliver great knowledge to the world.**
 
+</details>
+
 ##  :bulb: How to contribute?
 👍 You want to either add a new certificate or improve an existing one.  
-- You can add a new certificate to the list by following this hirarchy 👇
-
+- You can add a new certificate to the list by following this hirarchy.
  
 ``` 
 .CloudBoost
