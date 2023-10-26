@@ -7,9 +7,9 @@ const Footer = ({ slug }) => {
       <footer className={styles.footer}>
         <div>
           <Link href="https://github.com/Y4HYA4/CloudBoost#readme" external gray>
-          🙋‍♂️Contribute
+          Project
           </Link>
-          <Link href="https://blog.yahya-abulhaj.dev" external gray>🔙Blogs
+          <Link href="https://blog.yahya-abulhaj.dev" external gray> Learn More
           
           </Link>
         </div>
@@ -17,7 +17,7 @@ const Footer = ({ slug }) => {
           
         </Link>
         <Link href="https://devops.yahya-abulhaj.dev/" >
-        💡
+        ❝Sayings❞
         </Link>
        
       </footer>
