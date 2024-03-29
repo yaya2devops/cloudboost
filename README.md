@@ -42,6 +42,8 @@ As you can see, you have all of the necessary code. What you can do now is fork 
 
 </details>
 
+
+
 ##  :bulb: How to contribute?
 👍 You want to either add a new certificate or improve an existing one.  
 - You can add a new certificate to the list by following this hirarchy.
