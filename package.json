@@ -13,7 +13,7 @@
   "dependencies": {
     "classnames": "^2.2.6",
     "cross-env": "^7.0.3",
-    "intersection-observer": "^0.7.0",
+    "intersection-observer": "^0.12.2",
     "lodash.debounce": "^4.0.8",
     "next": "^9.4.2",
     "nprogress": "^0.2.0",
